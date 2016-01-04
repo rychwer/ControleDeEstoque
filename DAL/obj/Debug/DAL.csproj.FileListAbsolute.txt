@@ -1,0 +1,8 @@
+C:\Users\Rychwer\Documents\Visual Studio 2015\Projects\ControleDeEstoque\DAL\bin\Debug\DAL.dll
+C:\Users\Rychwer\Documents\Visual Studio 2015\Projects\ControleDeEstoque\DAL\bin\Debug\DAL.pdb
+C:\Users\Rychwer\Documents\Visual Studio 2015\Projects\ControleDeEstoque\DAL\bin\Debug\Modelo.dll
+C:\Users\Rychwer\Documents\Visual Studio 2015\Projects\ControleDeEstoque\DAL\bin\Debug\MySql.Data.dll
+C:\Users\Rychwer\Documents\Visual Studio 2015\Projects\ControleDeEstoque\DAL\bin\Debug\Modelo.pdb
+C:\Users\Rychwer\Documents\Visual Studio 2015\Projects\ControleDeEstoque\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Rychwer\Documents\Visual Studio 2015\Projects\ControleDeEstoque\DAL\obj\Debug\DAL.dll
+C:\Users\Rychwer\Documents\Visual Studio 2015\Projects\ControleDeEstoque\DAL\obj\Debug\DAL.pdb

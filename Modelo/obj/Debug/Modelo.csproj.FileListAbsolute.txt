@@ -1,0 +1,5 @@
+C:\Users\Rychwer\Documents\Visual Studio 2015\Projects\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\Rychwer\Documents\Visual Studio 2015\Projects\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Rychwer\Documents\Visual Studio 2015\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Rychwer\Documents\Visual Studio 2015\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\Rychwer\Documents\Visual Studio 2015\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
